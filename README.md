@@ -131,7 +131,7 @@ When a new version of openfire is released and you have setup persistence correc
    ```
 
 3. Bring the containers back up:
-   
+
    ```bash
    docker-compose up -d
    ```

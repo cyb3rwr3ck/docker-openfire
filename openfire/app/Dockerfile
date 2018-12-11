@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-LABEL maintainer="flux@cyb3rwr3ck.net"
+LABEL maintainer="mgmt@cyb3rwr3ck.net"
 
 ENV OPENFIRE_VERSION=4.2.3 \
     OPENFIRE_USER=openfire \
