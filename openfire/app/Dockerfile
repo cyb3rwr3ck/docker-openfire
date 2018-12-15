@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 LABEL maintainer="mgmt@cyb3rwr3ck.net"
 
 ENV OPENFIRE_VERSION=4.2.3 \
